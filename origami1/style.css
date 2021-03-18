@@ -1,0 +1,35 @@
+h1{
+    color: rgb(133, 113, 58);
+    
+    display: flex;
+    justify-content: center;
+}
+h2{
+display: flex;
+justify-content: center;
+
+
+}
+/* *{border: solid;}*/
+
+.header{
+display: flex;
+justify-content: space-around;
+
+ background-color: rgb(0, 0, 0);
+
+color:white;
+}
+.header1{
+display: flex;
+justify-content: space-around;
+background: black;
+
+
+}
+
+body{
+
+    background-color: #36ad26 ;
+
+}
